@@ -1,4 +1,4 @@
-# Kafka and PostgreSQL with Golang Proof of Concept (On Progress)
+# Kafka and PostgreSQL with Golang Proof of Concept (In Process)
 
 This project demonstrates a basic setup of Kafka, Zookeeper, and PostgreSQL using Docker Compose, and a Golang application that connects to PostgreSQL using GORM and handles database migrations.
 
